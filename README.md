@@ -3,7 +3,7 @@ VCC Assignment 3
 
 # Turbo Powered Snail Skateboards 🛹⚡
 
-Welcome to the Turbo Powered Snail Skateboards project!
+Welcome to the Turbo Powered Snail Skateboard project!
 
 ## About
 Turbo Powered Snail Skateboards is a futuristic concept where traditional skateboards are upgraded with compact turbo engines for the everyday travel of snails. These boards are designed for speed, agility, and excitement while maintaining the freedom and style of classic skateboarding.
