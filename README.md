@@ -1,7 +1,7 @@
 # shayanne_vcc_3
 VCC Assignment 3
 
-# Turbo Powered Skateboards 🛹⚡
+# Turbo Powered Snail Skateboards 🛹⚡
 
 Welcome to the Turbo Powered Snail Skateboards project!
 
